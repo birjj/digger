@@ -16,7 +16,7 @@ require (
 	github.com/dominikbraun/graph v0.23.0
 	github.com/getsentry/sentry-go v0.28.0
 	github.com/gin-contrib/pprof v1.5.0
-	github.com/gin-contrib/sessions v1.0.1
+	github.com/gin-contrib/sessions v1.0.2
 	github.com/gin-gonic/gin v1.10.0
 	github.com/golang-jwt/jwt v3.2.2+incompatible
 	github.com/google/go-github/v61 v61.0.0
